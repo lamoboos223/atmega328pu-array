@@ -10,7 +10,7 @@
 
 4- connect your atmegas to the pcb.
 
-5- click burn bootloader.
+5- change the programmer in Tools section to `AVRISP mkll` and then click burn bootloader.
 
 6- now go to the folder `atmega_test` and click `sketch` --> `upload using programmer`
 
